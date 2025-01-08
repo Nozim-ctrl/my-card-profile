@@ -83,5 +83,6 @@ p, a {
         align-items: center;
         gap: 15px;
         padding: 5px;
+        margin-top: 20px;
     }  
 }
